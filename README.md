@@ -9,21 +9,16 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
 - I created a website for myself so it is easier to find me and what I do. 
 - The purpose of the project was to have a place I can put my work and have links to my other professional programs. 
 
 
 ## Technologies Used
 - HTML/CSS
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
 
 ## Features
@@ -54,14 +49,3 @@ Provide various use cases and code examples here.
 
 ## Project Status
 Project is: _complete_
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
