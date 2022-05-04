@@ -5,7 +5,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Final Result](#finalresult)
+* [Final Result](#final-result)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
