@@ -5,7 +5,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
+* [Screenshots](#finalresults)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -27,7 +27,7 @@
 - 1. A website you are able to scroll
 - 2. Can visit my GitHub and LinkedIn from website
 
-## Screenshots
+## Final Result
 ![Example screenshot](./images/website.png)
 
 
