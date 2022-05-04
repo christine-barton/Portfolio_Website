@@ -29,7 +29,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./imgages/website.png)
+![Example screenshot](./images/website.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
