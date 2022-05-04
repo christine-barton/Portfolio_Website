@@ -19,33 +19,26 @@
 
 ## Technologies Used
 - HTML/CSS
+- Microsoft Azure 
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
 
+- 1. A website you are able to scroll
+- 2. Can visit my GitHub and LinkedIn from website
 
 ## Screenshots
 ![Example screenshot](./images/website.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+Microsoft Azure Web Services
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
+You need a place to be able to edit html and css files.
+You would start with finding a template online and downloading it. Then editing the information to be your own. Then uploading all of this to your own GitHub and creating a Static Web App on Azure to go with it. You can use the link they give you or use your own domain by creating it on namecheap. Then you need to link up your domain with the web service app. 
 
 ## Usage
-Someone could use it to see how to build a website and connect a domain link to it 
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
+Someone could use it to see how to build a website and connect a domain link to it. You could download the template I have in the GitHub by downloading all the files and filling in the information with your own.
 
 ## Project Status
 Project is: _complete_
