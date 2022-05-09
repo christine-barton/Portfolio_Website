@@ -14,7 +14,7 @@
 
 ## General Information
 - I created a website for myself so it is easier to find me and what I do. 
-- The purpose of the project was to have a place I can put my work and have links to my other professional programs. 
+- The purpose of the project was to have a place I can put my work and have links to my other professional accounts. 
 
 
 ## Technologies Used
