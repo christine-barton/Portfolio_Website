@@ -24,7 +24,7 @@
 
 ## Features
 
-- 1. A website you are able to scroll
+- 1. A website you are able to scroll on
 - 2. Website works and looks good on any device
 - 3. You can visit my GitHub and LinkedIn from website
 
