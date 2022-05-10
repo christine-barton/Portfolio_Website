@@ -1,5 +1,5 @@
 # Portfolio Website
-> I created a portfolio website that comes from an online template and contains one main html page.
+> I created a portfolio website that comes from an online template and contains one main html page title index.html.
 
 ## Table of Contents
 * [General Info](#general-information)
